@@ -1,0 +1,10 @@
+C:\Users\Legion\source\repos\CarRaceProg\bin\Debug\CarRaceProg.exe.config
+C:\Users\Legion\source\repos\CarRaceProg\bin\Debug\CarRaceProg.exe
+C:\Users\Legion\source\repos\CarRaceProg\bin\Debug\CarRaceProg.pdb
+C:\Users\Legion\source\repos\CarRaceProg\obj\Debug\CarRaceProg.csprojAssemblyReference.cache
+C:\Users\Legion\source\repos\CarRaceProg\obj\Debug\CarRaceProg.Form1.resources
+C:\Users\Legion\source\repos\CarRaceProg\obj\Debug\CarRaceProg.Properties.Resources.resources
+C:\Users\Legion\source\repos\CarRaceProg\obj\Debug\CarRaceProg.csproj.GenerateResource.cache
+C:\Users\Legion\source\repos\CarRaceProg\obj\Debug\CarRaceProg.exe
+C:\Users\Legion\source\repos\CarRaceProg\obj\Debug\CarRaceProg.pdb
+C:\Users\Legion\source\repos\CarRaceProg\obj\Debug\CarRaceProg.csproj.CoreCompileInputs.cache
